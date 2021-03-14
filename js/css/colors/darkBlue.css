@@ -1,0 +1,58 @@
+
+.bottom_line{
+	border-top: 3px solid #0067A5;
+}
+
+.bottom_line_2{
+  border-top: 5px solid #0067A5;
+}
+
+
+.icon-features:hover i , .icn-srv , .features_list_1 li:before , .features_list_2 li:before , .cbp-qtprogress , .grid figure:hover figcaption, .bestPlanTitle{
+
+  background:#0067A5;
+}
+
+
+
+
+.icon-service a , .icon-service a:hover, .icon-service a:link, .icon-service a:focus{
+  color:#0067A5;
+
+}
+
+
+.mem svg path {
+  fill: #0067A5;
+}
+
+
+.grid-gallery ul {
+	color:#cacaca;
+}
+
+.grid-gallery figcaption p {
+	color:	#8f8f8f;
+}
+
+.grid figure:hover figcaption h3{
+	color: #f1f1f1;
+}
+
+.grid figure:hover figcaption p{
+	color: #dcdcdc;
+}
+
+.overlay{
+
+background: rgba(0, 103, 165, 0.9);
+
+}
+
+
+#facts .full{
+  background:rgba(0, 103, 165, 0.6);
+}
+
+
+

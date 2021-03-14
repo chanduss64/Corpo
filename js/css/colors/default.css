@@ -1,0 +1,83 @@
+a{
+  color: #93c054 !important;
+}
+
+::selection {
+  color: #f1f1f1;
+  background:  #93c054 
+}
+
+
+::-moz-selection {
+  color: #f1f1f1;
+  background:  #93c054;
+}
+
+.navbar ul li a.active{
+  background: #93c054;
+}
+
+.show-menu {
+  background: #93c054;
+}
+
+.heading-1 h1{
+  border-left: 20px solid #93c054; 
+}
+
+.main-heading span{
+  color: #93c054;
+}
+
+.main-heading a{
+  color: #93c054;
+}
+
+
+.blog-mini .date-meta{
+  background: #93c054;
+}
+
+
+
+
+.blog-post-type i{
+  background: #93c054;
+}
+
+
+
+
+
+.service-icon-2 i{
+	background: #93c054;
+}
+
+.service-icon-3 i{
+	background: #93c054;
+}
+
+.list-style-1 li:before, .list-style-2 li:before, .list-style-1-light li:before{
+	background: #93c054;
+}
+
+.button a{
+	background: #93c054;
+}
+
+
+.testimonial{
+	background: #93c054;
+}
+
+
+.pagenation ol li a.active{
+	background: #93c054;
+}
+
+.label-custom{
+	background: #93c054;
+}
+
+
+

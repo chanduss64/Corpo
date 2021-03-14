@@ -1,0 +1,88 @@
+a{
+  color: #21c2f8 !important;
+}
+
+::selection {
+  color: #f1f1f1;
+  background:  #21c2f8 !important;
+}
+
+
+::-moz-selection {
+  color: #f1f1f1;
+  background:  #21c2f8 !important;
+}
+
+.navbar ul li a.active{
+  background: #21c2f8;
+}
+
+.show-menu {
+  background: #21c2f8 !important;
+}
+
+.heading-1 h1{
+  border-left: 20px solid #21c2f8 !important; 
+}
+
+.main-heading span{
+  color: #21c2f8 !important;
+}
+
+.main-heading a{
+  color: #21c2f8 !important;
+}
+
+
+.blog-mini .date-meta{
+  background: #21c2f8 !important;
+}
+
+
+figure.effect-zoe p a i{
+  background: #21c2f8 !important;
+}
+
+.blog-post-type i{
+  background: #21c2f8 !important;
+}
+
+
+.service-icon i{
+  background: #21c2f8 !important;
+}
+
+
+
+.service-icon-2 i{
+  background: #21c2f8 !important;
+}
+
+.service-icon-3 i{
+  background: #21c2f8 !important;
+}
+
+.list-style-1 li:before, .list-style-2 li:before, .list-style-1-light li:before{
+  background: #21c2f8 !important;
+}
+
+.button a{
+  background: #21c2f8 !important;
+}
+
+
+.testimonial{
+  background: #21c2f8 !important;
+}
+
+
+.pagenation ol li a.active{
+  background: #21c2f8 !important;
+}
+
+.label-custom{
+  background: #21c2f8 !important;
+}
+
+
+
